@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayson254
 - 👀 I’m interested in coding and Programming 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently a Data scientist
 - 💞️ I’m looking to collaborate on coding
 - 📫 you can reach me through obagaamos000@gmail.com
 
